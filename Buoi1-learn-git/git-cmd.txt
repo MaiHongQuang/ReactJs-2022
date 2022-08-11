@@ -8,3 +8,5 @@ git commit -m "first commit" : Tất cả các file được add vào git local 
 
 git remote add origin https://github.com/MaiHongQuang/ReactJs-2022.git : thêm link remote vào local
 
+git push : đẩy source code từ phía local len remote
+
